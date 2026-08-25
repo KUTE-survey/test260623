@@ -1,14 +1,9 @@
 {
-  "temperature": 31.2,
-  "humidity": 55.0,
+  "temperature": 31.5,
+  "humidity": 53.0,
   "set_temperature": 28,
-  "updated_at": "2026-08-25T10:50:29.839141+09:00",
+  "updated_at": "2026-08-25T11:53:01.319145+09:00",
   "history": [
-    {
-      "time": "19:09",
-      "temp": 31.2,
-      "hum": 51.0
-    },
     {
       "time": "19:51",
       "temp": 31.0,
@@ -123,6 +118,11 @@
       "time": "10:50",
       "temp": 31.2,
       "hum": 55.0
+    },
+    {
+      "time": "11:53",
+      "temp": 31.5,
+      "hum": 53.0
     }
   ]
 }
